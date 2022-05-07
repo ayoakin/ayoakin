@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoakin
 - 👀 I’m interested in app and mobile development
-- 🌱 I’m currently learning Dart 
+- 🌱 I’m currently learning Dart and Flutter 
 - 💞️ I’m looking to collaborate on New App Ideas
 - 📫 How to reach me 
 
