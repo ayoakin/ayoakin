@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ayoakin
-- 👀 I’m interested in app and mobile development
-- 🌱 I’m currently learning Dart and Flutter 
-- 💞️ I’m looking to collaborate on New App Ideas
+- 👀 I’m interested in app and mobile development and deployment
+- 🦾 I’m proficient in Python, HTML, Javascript and CSS
+- 🌱 I’m currently learning Bash, Dart and Flutter 
+- 💞️ I’m looking to collaborate on New App ideas and design
 - 📫 How to reach me 
 
 <!---
