@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayoakin
-- 👀 I’m interested in backend and API development and deployment
-- 🦾 I’m proficient in Python, HTML, Javascript and CSS
-- 🌱 I’m currently learning Bash, Dart and Flutter 
-- 💞️ I’m looking to collaborate on New App ideas and design
+- 👀 My interests are in AI/ML Systems, AI Safety and Software Engineering 
+- 🦾 I’m proficient in Python for Software Engineering (Django + Flask) and AI & ML (PyTorch, Numpy, Panda, MatPlotLib)
+- 🌱 I’m currently pursuing a doctorate in Artificial Intelligence and Machine Learning  
+- 💞️ I’m looking to collaborate on Startups and new research ideas in AI and ML
 - 📫 How to reach me 
 
 <!---
