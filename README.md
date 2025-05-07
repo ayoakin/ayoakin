@@ -21,6 +21,14 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
   - Safe and interpretable AI systems
   - AI Detection and Watermarking 
 
+### 🚀 Past Projects
+
+- [**API Bridge**](https://tryapibridge.com/) — A platform that simplifies API integration for developers, making it faster to test and launch AI-powered apps.  
+- [**Hypt**](https://www.hypt.ai/) — A tool that uses AI to generate, test, and refine hypotheses in seconds, helping users design better experiments.  
+- [**Decision Lab**](https://justdecision.com/) — A platform to support decision-making by combining structured frameworks with AI-driven insights.
+
+---
+
 ## 🤝 Let's Collaborate!
 I'm looking to:
 - 🚀 Collaborate on AI/ML startups
