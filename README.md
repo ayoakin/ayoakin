@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayo (@ayoakin)
+# 👋 Hi, I'm Ayo 
 
 Welcome to my GitHub! I'm passionate about building and understanding intelligent systems.
 
