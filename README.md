@@ -36,8 +36,9 @@ I'm looking to:
 - 💡 Explore new ideas in responsible AI
 
 ## 📫 Reach Me
-- 📧 [Your Email Here]
+- 📧 [Email]
 - 💼 [LinkedIn]
+- 📝 [Medium]
 
 <!---
 ayoakin/ayoakin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
