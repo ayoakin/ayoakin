@@ -23,9 +23,9 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 
 ## 🚀 Past Projects
 
-- [**API Bridge**](https://tryapibridge.com/) — A platform that simplifies API integration for developers, making it faster to test and launch AI-powered apps.  
-- [**Hypt**](https://www.hypt.ai/) — A tool that uses AI to generate, test, and refine hypotheses in seconds, helping users design better experiments.  
-- [**Decision Lab**](https://justdecision.com/) — A platform to support decision-making by combining structured frameworks with AI-driven insights.
+- [**API Bridge**](https://tryapibridge.com/) — Securely expose your database as an API without writing a single line of backend code. Perfect for data teams, researchers, and developers who need quick, secure database access.  
+- [**Hypt**](https://www.hypt.ai/) — Update your product site and app in seconds.  
+- [**Decision Lab**](https://justdecision.com/) — DecisionLab allows you to change values in your code, without changing your code. Skip long code-reviews, approvals, and production deployments. Your app is already there, just update what truly needs to be changed..
 
 
 
