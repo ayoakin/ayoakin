@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 I'm looking to:
 - 🚀 Collaborate on AI/ML startups
 - 📄 Co-author research in ML interpretability, AI safety, or applied ML
-- 💡 Explore new ideas in responsible AI
+- 💡 Explore new ideas in Search and Recommendations systems
 
 ## 📫 Reach Me
 - 📧 [Email]
