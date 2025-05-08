@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 ## 🛠️ Skills & Tools
 - **Languages & Frameworks:** Python (Django, Flask), Rust, C, RubyonRails
 - **AI/ML Stack:** PyTorch, Tensorflow, NumPy, Pandas, Matplotlib
-- **Experience:** End-to-end AI pipelines, model training, backend APIs, research prototypes
+- **Experience:** End-to-end AI pipelines, model training, backend APIs, research prototypes, software development 
 
 ## 🎓 Currently
 - Pursuing a **Doctorate in Artificial Intelligence and Machine Learning**
