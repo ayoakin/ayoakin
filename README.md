@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 - **Experience:** End-to-end AI pipelines, model training, backend APIs, research prototypes, software development 
 
 ## 🎓 Currently
-- Pursuing a **Doctorate in Artificial Intelligence and Machine Learning**
+- Pursuing a Doctorate in Artificial Intelligence and Machine Learning
 - Researching
   - Safe and interpretable AI systems
   - AI Detection and Watermarking 
