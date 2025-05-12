@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ayo 
+# 👋🏾 Hi, I'm Ayo 
 
-Welcome to my GitHub! I'm passionate about building and understanding intelligent systems.
+Welcome to my Github! I'm passionate about building and understanding intelligent systems.
 
 ## 👀 Interests
 - Artificial Intelligence & Machine Learning (AI/ML)
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 - Scalable ML Systems & Infrastructure for Search and Recommendation
 - AI Text Detection and Attribution
 - Medical AI/ML
-- Software Engineering & System Design
+- Software & Computer Engineering 
 
 ## 🛠️ Skills & Tools
 - **Languages & Frameworks:** Python (Django, Flask), Rust, C, RubyonRails
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 - **Experience:** End-to-end AI pipelines, model training, backend APIs, research prototypes, software development 
 
 ## 🎓 Currently
-- Pursuing a Doctoral Research in Artificial Intelligence and Machine Learning
+- Conducting doctoral research in Artificial Intelligence and Machine Learning
 - Researching
   - Safe and interpretable AI systems
   - AI Detection and Watermarking 
@@ -32,13 +32,16 @@ Welcome to my GitHub! I'm passionate about building and understanding intelligen
 ## 🤝 Let's Collaborate!
 I'm looking to:
 - 🚀 Collaborate on AI/ML startups
-- 📄 Co-author research in ML interpretability, AI safety, or applied ML
+- 📄 Co-author research in ML interpretability, AI safety, applied AI & ML or Health AI
 - 💡 Explore new ideas in Search and Recommendations systems
 
 ## 📫 Reach Me
-- 📧 [Email]
-- 💼 [LinkedIn]
-- 📝 [Medium]
+- 📧 [ **Email** ](mailto: ayo [dot] th [at] dartmouth [dot] com)
+- 🤖 [ **Github** ](https://github.com/ayoakin)
+- 💼 [ **LinkedIn** ](https://linkedin.com)
+- 📝 [ **Medium** ](https://medium.com)
+
+
 
 <!---
 ayoakin/ayoakin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
