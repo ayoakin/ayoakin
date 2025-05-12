@@ -36,7 +36,7 @@ I'm looking to:
 - 💡 Explore new ideas in Search and Recommendations systems
 
 ## 📫 Reach Me
-- 📧 [ **Email** ](ayo dot th at dartmouth dot com)
+- 🌐 [ **Website** ](www.ayoakin.com)
 - 🤖 [ **Github** ](https://github.com/ayoakin)
 - 💼 [ **LinkedIn** ](https://linkedin.com)
 - 📝 [ **Medium** ](https://medium.com)
