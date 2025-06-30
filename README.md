@@ -11,7 +11,7 @@ Welcome to my Github! I'm passionate about building and understanding intelligen
 - Software & Computer Engineering 
 
 ## 🛠️ Skills & Tools
-- **Languages & Frameworks:** Python (Django, Flask), Rust, C, RubyonRails
+- **Languages & Frameworks:** C, Python (Django, Flask), Rust, RubyonRails
 - **AI/ML Stack:** PyTorch, Tensorflow, NumPy, Pandas, Matplotlib
 - **Experience:** End-to-end AI pipelines, model training, backend APIs, research prototypes, software development 
 
