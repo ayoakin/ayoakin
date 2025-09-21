@@ -33,7 +33,7 @@ Welcome to my Github! I'm passionate about building and understanding intelligen
 I'm looking to:
 - 🚀 Collaborate on AI/ML startups
 - 📄 Co-author research in ML interpretability, AI safety, applied AI & ML or Health AI
-- 💡 Explore new ideas in Search and Recommendations systems
+- 💡 Explore new ideas in Search and Recommendations systems.
 
 ## 📫 Reach Me
 - 🌐 [ **Website** ](www.ayoakin.com)
