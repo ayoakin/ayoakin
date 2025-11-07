@@ -28,7 +28,6 @@ Welcome to my Github! I'm passionate about building and understanding intelligen
 - [**Decision Lab**](https://justdecision.com/) - DecisionLab allows you to change values in your code,without changing your code. Skip long code-reviews, approvals, and production deployments. Your app is already there, just update what truly needs to be changed.
 
 
-
 ## 🤝 Let's Collaborate!
 I'm looking to:
 - 🚀 Collaborate on AI/ML startups
